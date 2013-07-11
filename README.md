@@ -1,6 +1,6 @@
 # Capybara-select2
 
-## List of testing GEM used in this project
+## List of then testing GEMs are used in this project
 
 - **Rspec**
 - **Cucumber**
