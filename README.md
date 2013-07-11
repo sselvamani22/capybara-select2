@@ -11,13 +11,12 @@
 
 Capybara requires Ruby 1.9.3 or later. To install, type:
 
-Download this project
+Download this project then run this commands
 
 ```bash
 Run bundle install
 cucumber features/fill_in.feature
 ```
-
 
 select2.rb file which have code for select2 function
 
@@ -27,41 +26,46 @@ Your formate should be like this
 select2(form_name, field_name, value, multiple, auto=false) 
 ```
 
-For more details
+##For more details
 
 http://stackoverflow.com/questions/4642267/totally-confused-about-rails-testing-which-tools-are-for-which-jobs
 http://www.opinionatedprogrammer.com/2011/02/capybara-and-selenium-with-rspec-and-rails-3/
 
-Learn cucumber
+##Learn cucumber
 
 https://github.com/cucumber/cucumber/wiki/Cucumber-Backgrounder
+
 https://github.com/cucumber/cucumber/wiki/Given-When-Then
+
 http://aslakhellesoy.com/post/11055981222/the-training-wheels-came-off
+
 http://openmonkey.com/blog/2010/04/09/javascript-testing-with-cucumber-and-capybara
+
 http://cukes.info/step-definitions.html
+
 https://www.relishapp.com/cucumber/cucumber/docs/background
 
-Database cleaner
+##Database cleaner
 
 https://github.com/bmabey/database_cleaner
 
-Capybara
+##Capybara
 
 https://github.com/jnicklas/capybara
 
-Installation
+##Installation
 
 http://asciicasts.com/episodes/159-more-on-cucumber
 
-Selenium
+##Selenium
 
 http://www.slideshare.net/kjbuckley/web-application-testing-with-selenium
 
-factory_girl
+##factory_girl
 
 https://github.com/thoughtbot/factory_girl
 
-If you want, you can install this gem,
+##If you want, you can install this gem,
 
 - factory_girl-> create database
 - rspec-rails-> base of the testing
