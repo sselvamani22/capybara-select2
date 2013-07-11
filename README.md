@@ -1,10 +1,12 @@
-Capybara-select2
+# Capybara-select2
 
-List of testing GEM used in this project
+## List of testing GEM used in this project
+
 1.Rspec
 2.Cucumber
 3.Capybara
 4.Selenium
+
 
 Download this project
 
