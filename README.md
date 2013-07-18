@@ -1,6 +1,6 @@
 # Capybara-select2
 
-## List of then testing GEMs are used in this project
+## List of the testing GEMs are used in this project
 
 - **Rspec**
 - **Cucumber**
@@ -11,14 +11,14 @@
 
 Capybara requires Ruby 1.9.3 or later. To install, type:
 
-Download this project then run this commands
+Download this project then following commands
 
 ```bash
 Run bundle install
 cucumber features/fill_in.feature
 ```
 
-select2.rb file which have code for select2 function
+select2.rb file which have coded for select2 function
 
 Your formate should be like this
 
