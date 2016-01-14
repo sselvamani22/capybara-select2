@@ -1,6 +1,6 @@
 # Capybara-select2
 
-## List of the testing GEMs are used in this project
+## List of testing GEMs are used in this project
 
 - **Rspec**
 - **Cucumber**
@@ -9,18 +9,18 @@
 
 ## Setup
 
-Capybara requires Ruby 1.9.3 or later. To install, type:
+Capybara requires Ruby 1.9.3 or later. 
 
-Download this project then following commands
+Download this project then follow the commands
 
 ```bash
 Run bundle install
 cucumber features/fill_in.feature
 ```
 
-select2.rb file which have coded for select2 function
+All the required codes have been included in select2.rb
 
-Your formate should be like this
+Your method callback format should be
 
 ```bash
 select2(form_name, field_name, value, multiple, auto=false) 
@@ -65,7 +65,7 @@ http://www.slideshare.net/kjbuckley/web-application-testing-with-selenium
 
 https://github.com/thoughtbot/factory_girl
 
-##If you want, you can install this gem,
+##If you required then you can install this below gems,
 
 - factory_girl-> create database
 - rspec-rails-> base of the testing
