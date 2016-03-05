@@ -74,3 +74,6 @@ https://github.com/thoughtbot/factory_girl
 - selenium-> run javascript and open in browser
 - jquery-rails
 - cucumber-webkit-> No need this if you use selenium
+- facker -> Gives resonable value 
+- Database Cleaner -> Handle database trucate
+
