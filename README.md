@@ -76,4 +76,5 @@ https://github.com/thoughtbot/factory_girl
 - cucumber-webkit-> No need this if you use selenium
 - facker -> Gives resonable value 
 - Database Cleaner -> Handle database trucate
+- shoulda-matchers
 
