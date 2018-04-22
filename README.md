@@ -77,4 +77,6 @@ https://github.com/thoughtbot/factory_girl
 - facker -> Gives resonable value 
 - Database Cleaner -> Handle database trucate
 - shoulda-matchers
+- Factory Bot for factory based database fixtures
+- Rails Controller Testing for expanding our controlling testing arsenal
 
